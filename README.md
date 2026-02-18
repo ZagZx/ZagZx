@@ -1,10 +1,8 @@
-<span>
-  <img src="https://github-readme-stats-zagz.vercel.app/api/top-langs/?username=ZagZx&layout=compact&theme=nightowl">
-</span>
-<!-- &locale=pt-br -->
-<span>
-  <img src= "https://github-readme-stats-zagz.vercel.app/api?username=ZagZx&show_icons=true&theme=nightowl">
-</span>
+<p>
+  <img align="top" src= "https://github-readme-stats-zagz.vercel.app/api?username=ZagZx&show_icons=true&theme=nightowl">
+  &nbsp;&nbsp;
+  <img align="top" src="https://github-readme-stats-zagz.vercel.app/api/top-langs/?username=ZagZx&layout=compact&theme=nightowl">
+</p>
 
 ## Skills
 
